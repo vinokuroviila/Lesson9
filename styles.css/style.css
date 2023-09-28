@@ -1,0 +1,18 @@
+.link {
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    margin-left: 20px;
+    border-radius: 20px;
+    width:250px;
+    height:250px;
+}
+.tegs {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+    text-decoration: solid;
+}
